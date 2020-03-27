@@ -1,2 +1,1 @@
-# oshada97
-Globot CC
+# Globot CC
